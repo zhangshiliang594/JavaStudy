@@ -21,8 +21,8 @@ public class DemoFor {
             }
         }
         System.out.println("排序结果：");
-        for (int k = 0; k<num.length; k++){
-            System.out.print(num[k] + " ");
+        for (int i : num) {
+            System.out.print(i + " ");
         }
     }
 }
