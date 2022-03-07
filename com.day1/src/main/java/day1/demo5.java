@@ -21,6 +21,8 @@ public class demo5 {
                 break;
             case 8:
             case 7:
+                System.out.println("该同学成绩为B+");
+                break;
             case 6:
                 System.out.println("该同学成绩为B");
                 break;
